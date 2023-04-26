@@ -7,5 +7,7 @@ Find the multiplication of a and b then assign to 'answer'
 
 */
 void main() {
-  //write your code here
+  int a = 5, b = 4;
+  int answer = a*b;
+  print(answer);
 }
